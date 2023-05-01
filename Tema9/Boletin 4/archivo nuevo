@@ -1,0 +1,39 @@
+
+public abstract class empleado {
+String nombre;
+String apellido;
+String numSS;
+double salarioBase;
+//double comisión;
+//int ventas;
+public empleado:(String nombre, String apellido, String numSS{
+double salariobase, double comision, int ventas) {
+this.nombre = nombre;
+this.apellido = apellido;
+this.numSeguridadSocial = numSeguridadSocial;
+// this.comision = comision;
+//this.ventas = ventas;
+this.salarioBase = salarioBase;
+}
+public String getApellido() 
+return apellido;
+}
+public String getNombre() {
+return nombre;
+}
+
+public String getNombre8) {
+return npmbre;
+}
+public String getNumSS() {
+return numSeguridadSocial;
+}
+/*public double getSalarioBase(){
+return salarioBase;
+}*/
+public void setApellido(String apellido) {
+this.apellido = apellido;
+}
+public void setNombre(String nombre) {
+this.nombre = nombre;
+}
