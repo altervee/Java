@@ -1,0 +1,15 @@
+/** : Asi empiezan los comentarios
+public class HolaMundo: para empezar el programa (distingue entre mayusculas y minusculas)
+public static void main(String[] args) { : Es siempre la segunda linea 
+System.out.println("Texto");  :Para escribir frases.El ln para saltar de linea
+Los conetarios que no forman parte del programa se deben escribir entre /* y*/.Por cada linea comentario habra un *
+Hay que darle a compilar y te aparecen los errores despues a ejecutar que es la rueda de engranaje.
+
+Ejercicio3
+Los %10s significa 10 caracteres de amplitud .Para dar un margen en la cadena(palabra) Si ponemos un 10 seran 10  huecos y la palabtra tendra que tener menos de 10 letras.Cuantas mas letras mas nunmeros porque se pegan las columnas .
+%s signica poner otra palbra  ala derecha de cada palabra.Columna derecha.Poner la n es para la ultima columna,Se produce un salto
+Printf muesrtra algo en pantalla con el formato que se especifica a la izquierda.Si pones tf le hace caso al formato y asi podemos tener dos columnas de palabras.
+"%-10s significa la longitud minima de la cadena.10 caracteres.El guion- antes de 10 lo que hace es justificar la palabra,justifica a la izquierda.Si ponemos S mayusculas las letars son mayusculas.El barra n /es para hacer el salto de linea como en las maquinas de escribir retorno de carro.El %S quiere decir que vamos a tener otra columna con el pore
+
+
+
